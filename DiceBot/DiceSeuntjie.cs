@@ -151,7 +151,7 @@ namespace DiceBot
                 response.Substring(response.IndexOf("sid\":\"") + "sid\":\"".Length);
                 c = c.Substring(0, c.IndexOf("\""));
                 Parent.DumpLog("BE login 4", 7);
-                foreach (Cookie c3 in cookies.GetCookies(new Uri("http://"+ url)))
+                foreach (Cookie c3 in cookies.GetCookies(new Uri("https://"+ url)))
                 {
                     if (c3.Name == "io")
                         c = c3.Value;

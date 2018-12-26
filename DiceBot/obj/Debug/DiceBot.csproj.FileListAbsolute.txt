@@ -93,3 +93,6 @@ C:\Users\eugene\Documents\GitHub\DiceBot\DiceBot\obj\Debug\DiceBot.exe.manifest
 C:\Users\eugene\Documents\GitHub\DiceBot\DiceBot\obj\Debug\DiceBot.application
 C:\Users\seunt\Desktop\GitHub\DiceBot\DiceBot\obj\Debug\DiceBot.SeedInput.resources
 C:\Users\seunt\Desktop\GitHub\DiceBot\DiceBot\obj\Debug\DiceBot.csprojResolveAssemblyReference.cache
+C:\Users\r3ddm\Source\DiceBot\DiceBot\obj\Debug\DiceBot.csprojAssemblyReference.cache
+C:\Users\r3ddm\Source\DiceBot\DiceBot\obj\Debug\DiceBot.exe
+C:\Users\r3ddm\Source\DiceBot\DiceBot\obj\Debug\DiceBot.pdb

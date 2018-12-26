@@ -959,7 +959,7 @@ namespace DiceBot
                         "Update Available", 
                         MessageBoxButtons.YesNo, MessageBoxIcon.None , MessageBoxDefaultButton.Button1 ,MessageBoxOptions.DefaultDesktopOnly) == System.Windows.Forms.DialogResult.Yes)
                     {
-                        Process.Start("http://bot.seuntjie.com/botpage.aspx");
+                        Process.Start("https://bot.seuntjie.com/botpage.aspx");
                     }
                 }
                 else
@@ -5897,12 +5897,12 @@ namespace DiceBot
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-            Process.Start("http://bot.seuntjie.com/ProgrammerMode.html");
+            Process.Start("https://bot.seuntjie.com/ProgrammerMode.html");
         }
 
         private void sourceCodeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("http://github.com/seuntie900/DiceBot");
+            Process.Start("https://github.com/seuntie900/DiceBot");
         }
 
         private void donateToolStripMenuItem_Click(object sender, EventArgs e)
@@ -5995,27 +5995,27 @@ namespace DiceBot
 
         private void btnHelpMartingale_Click(object sender, EventArgs e)
         {
-            Process.Start("http://bot.seuntjie.com/martingale.html");
+            Process.Start("https://bot.seuntjie.com/martingale.html");
         }
 
         private void btnHelpLabouchere_Click(object sender, EventArgs e)
         {
-            Process.Start("http://bot.seuntjie.com/labouchere.html");
+            Process.Start("https://bot.seuntjie.com/labouchere.html");
         }
 
         private void btnHelpFibonacci_Click(object sender, EventArgs e)
         {
-            Process.Start("http://bot.seuntjie.com/fibonacci.html");
+            Process.Start("https://bot.seuntjie.com/fibonacci.html");
         }
 
         private void btnHelpAlembert_Click(object sender, EventArgs e)
         {
-            Process.Start("http://bot.seuntjie.com/alembert.html");
+            Process.Start("https://bot.seuntjie.com/alembert.html");
         }
 
         private void btnHelpPreset_Click(object sender, EventArgs e)
         {
-            Process.Start("http://bot.seuntjie.com/presetlist.html");
+            Process.Start("https://bot.seuntjie.com/presetlist.html");
         }
 
         private void btnOpenCode_Click(object sender, EventArgs e)

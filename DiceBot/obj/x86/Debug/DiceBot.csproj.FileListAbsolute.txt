@@ -1,0 +1,1 @@
+c:\Users\r3ddm\Source\DiceBot\DiceBot\obj\x86\Debug\DiceBot.csprojAssemblyReference.cache
